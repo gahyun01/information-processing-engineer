@@ -11,14 +11,14 @@
 - 소프트웨어 개발 단계와 각 단계의 주요 활동 및 산출물을 정의한다.
 - 소프트웨어 개발 방법론의 기반이 된다.
 - 프로젝트의 특성과 개발 환경에 따라 적절한 생명주기 모형을 선택하여 적용한다.
-<br>
+<br/>
 > **소프트웨어 생명주기 모형(SDLC Model)**  
 > 소프트웨어 생명주기를 표현한 개발 프로세스 모델
 >
 > - Software Process Model
 > - Software Engineering Paradigm
 
-<br><br>
+<br/><br/>
 
 ### 🏗️ 소프트웨어 공학 (Software Engineering)
 
@@ -42,11 +42,11 @@
 ✅ 개발된 소프트웨어의 품질을 지속적으로 검증한다.
 ✅ 개발 과정과 결과를 체계적으로 기록하고 관리한다.
 
-<br><br>
+<br/><br/>
 
 ---
 
-<br><br>
+<br/><br/>
 
 ## 🔄 소프트웨어 생명주기 모형
 
@@ -69,9 +69,9 @@
 
 <img src="../../../assets/waterfall-phases.png" width="600">
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ### 🧪 2. 프로토타입 모형 (Prototype Model)
 
@@ -89,11 +89,11 @@
 
 📷 **개발 과정**
 
-<img src="../../../assets/prototype-phases.png" width="600">
+<img src="../../../assets/prototype-phases.png" width="500">
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ### 🌀 3. 나선형 모형 (Spiral Model)
 
@@ -113,15 +113,15 @@
 
 📷 **개발 과정**
 
-<img src="../../../assets/spiral-phases.png" width="600">
+<img src="../../../assets/spiral-phases.png" width="500">
 
 📷 **개발 흐름**
 
-<img src="../../../assets/spiral-flow.png" width="800">
+<img src="../../../assets/spiral-flow.png" width="600">
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ### ⚡ 4. 애자일 모형 (Agile Model)
 
@@ -142,7 +142,7 @@
 
 > 💡 **Sprint** 또는 **Iteration**이라 불리는 짧은 개발 주기를 반복한다.
 
-<br>
+<br/>
 
 #### 🚀 등장 배경
 
@@ -158,7 +158,7 @@
 
 ➡️ 변화에 빠르게 대응할 수 있는 개발 방법론의 필요성이 증가하였다.
 
-<br>
+<br/>
 
 #### 📷 개발 과정
 
@@ -166,7 +166,7 @@
 
 > 전략 수립 → 반복주기(설계 → 개발 → 테스트) → 반복주기 → … → 최종 완료 및 유지보수
 
-<br>
+<br/>
 
 #### 📜 애자일 선언 (Agile Manifesto)
 
@@ -186,7 +186,7 @@
 > **동**작하는 소프트웨어  
 > **고**객과의 협력
 
----
+<br/>
 
 #### 📌 애자일 개발 12가지 실행 지침
 
