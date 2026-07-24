@@ -141,25 +141,25 @@
 
 <br/>
 
-<div style="display:flex; gap:30px; align-items:flex-start;">
-
-<div>
+<table>
+<tr>
+<td align="center">
 
 #### 📷 개발 과정
 
 <img src="../../../assets/spiral-phases.png" width="400">
 
-</div>
+</td>
 
-<div>
+<td align="center">
 
 #### 📷 개발 흐름
 
 <img src="../../../assets/spiral-flow.png" width="500">
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 
 <br/><br/>
