@@ -143,13 +143,13 @@
 
 #### 📷 개발 과정
 
-<img src="../../../assets/spiral-phases.png" width="500">
+<img src="../../../assets/spiral-phases.png" width="300">
 
 <br/>
 
 #### 📷 개발 흐름
 
-<img src="../../../assets/spiral-flow.png" width="600">
+<img src="../../../assets/spiral-flow.png" width="500">
 
 
 <br/><br/>
