@@ -143,20 +143,17 @@
 
 <table>
 <tr>
+<th align="center">📷 개발 과정</th>
+<th align="center">📷 개발 흐름</th>
+</tr>
+
+<tr>
 <td align="center">
-
-#### 📷 개발 과정
-
 <img src="../../../assets/spiral-phases.png" width="400">
-
 </td>
 
 <td align="center">
-
-#### 📷 개발 흐름
-
 <img src="../../../assets/spiral-flow.png" width="500">
-
 </td>
 </tr>
 </table>
